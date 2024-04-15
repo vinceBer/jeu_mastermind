@@ -1,0 +1,3 @@
+Facile:10.7:0:tim:bon:19
+Moyen:::::
+Difficile:15.2:0:tim:bon:19
